@@ -17,4 +17,4 @@ return res.send("this is about page")
 // ab insb ki v jrurt nhi h sidha port krskte h 
 app.listen(5000,()=>{
     console.log("teammer")
-})
+}) 
