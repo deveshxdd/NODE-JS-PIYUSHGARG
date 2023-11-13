@@ -5,11 +5,12 @@
   "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": " node build-http-server/index.js "
+    "start": " node express.js "
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "url": "^0.11.3"
   }
 }
